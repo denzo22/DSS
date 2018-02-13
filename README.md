@@ -5,8 +5,14 @@ This collection of scripts will be working towards a usable launcher for complet
 ### First Things First
 
 The concept needs to be brainstormed, refined, produced and proven
--- First written in autohotkey to get basic functionality and definition of tools / purpose [link](http://www.autohotkey.com)
+-- First written in autohotkey to get basic functionality and definition of tools / purpose [ahk](http://www.autohotkey.com)
+- [x] Project Name
+- [x] Project Divisions Defined
+- [x] Development Tools Configured
+- [ ] Upload working version as code base
+<hr>
 
-[Link](url) and ![Image](src)
+[ahk](https://imgur.com/rbGvYjo) 
+[Imgur](https://imgur.com/rbGvYjo)
 
 
